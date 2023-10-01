@@ -1,4 +1,12 @@
 {
+    "name": "p1x3ln1ghtz-bg",
+    "description": "a theme based around my homescreen layout",
+    "authors": [
+        {
+            "name": "G0R3C4T",
+            "id": "499287211381096458"
+        }
+    ],
     "background": {
         "blur": 0.1,
         "url": "https://media.discordapp.net/attachments/996426870633545831/1156639147910496337/IMG_6627.jpg",
